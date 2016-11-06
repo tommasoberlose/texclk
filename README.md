@@ -1,0 +1,2 @@
+# texclk
+Text Clock Widget
