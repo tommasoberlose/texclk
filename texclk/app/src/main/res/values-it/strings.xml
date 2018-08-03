@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">texclk</string>
+    <string name="add_widget">Aggiungi Widget</string>
+    <string name="action_customize">Preferenze</string>
+</resources>
